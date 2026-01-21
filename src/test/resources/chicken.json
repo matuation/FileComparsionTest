@@ -1,0 +1,22 @@
+{
+  "name": "Anivia",
+  "age": 1000,
+  "born": "Frelyord",
+  "haveEgg": true,
+  "abilities":
+  {
+    "PrimaryAbility": "Iceball",
+    "SecondaryAbility" : "Ice Spike"
+  },
+  "stats": [
+    {
+      "title": "Ability Power",
+      "amount": 865
+    },
+    {
+      "title": "Cooldown reduction",
+      "amount": 25
+    }
+  ],
+  "energy": null
+}
